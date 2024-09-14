@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Mubanga137
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there, I'm Mubanga Chiboma!
 
-<!---
-Mubanga137/Mubanga137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm a passionate computer science student with a focus on coding in Python, Java, JavaScript, Bootstrap, and CSS.
+
+🌱 Currently, I'm exploring the world of Artificial Intelligence, Machine Learning, and full-stack web development.
+
+🤖 I'm deeply interested in mobile app development and how AI can be integrated into innovative solutions.
+
+🛠 When I'm not coding, I enjoy learning more about tech, traveling, and practicing mixed martial arts.
+
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mubanga-chiboma-21b882255) or email me at chibomamubanga@gmail.com.
